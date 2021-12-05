@@ -1,6 +1,6 @@
 ### Hi there, I'm [iEdon](https://iedon.com)(he/him) 👋
 
-- 🔭 I’m currently working on ```Acorle``` amd ```iEdon-Net facilities```
+- 🔭 I’m currently working on ```Acorle``` and ```iEdon-Net facilities```
 - 📚 I'm currently reading books about ```Networking```
 - 💤 I'm good at daydreaming :P
 - 🐟 I'm also good at catching fish
