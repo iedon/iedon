@@ -11,6 +11,6 @@
 
 
 <div class="half">
-  <img src="https://github-readme-stats.vercel.app/api?username=iedon&show_icons=true&theme=algolia" height="200"></img></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedon&theme=algolia" height="200"></img>
+  <img src="https://github-readme-stats-iedon.vercel.app/api?username=iedon&show_icons=true&theme=algolia" height="200"></img></a>
+  <img src="https://github-readme-stats-iedon.vercel.app/api/top-langs/?username=iedon&theme=algolia" height="200"></img>
 </div>
