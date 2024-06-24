@@ -16,6 +16,6 @@
 </div> -->
 
 <div class="half">
-  <img src="https://github-readme-stats-bice-gamma-56.vercel.app/api?username=iedon&show_icons=true&theme=algolia" height="200"></img>
-  <img src="https://github-readme-stats-bice-gamma-56.vercel.app/api/top-langs/?username=iedon&theme=algolia&layout=compact&langs_count=10" height="200"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=iedon&show_icons=true&theme=algolia" height="200"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iedon&theme=algolia&layout=compact&langs_count=10" height="200"></img>
 </div>
